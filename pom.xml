@@ -10,7 +10,7 @@
 		<spring.version>4.3.2.RELEASE</spring.version>
 	</properties>
 	<build>
-		<finalName>jdk1.8.0_51_src</finalName>
+		<finalName>whg-spring-framework-4.3.2.RELEASE</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
